@@ -38,5 +38,3 @@ Hi, I'm Darya <img src="https://user-images.githubusercontent.com/74038190/22612
 
 <!-- Markdown -->
 <br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
