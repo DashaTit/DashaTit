@@ -2,7 +2,6 @@ Hi, I'm Darya <img src="https://user-images.githubusercontent.com/74038190/22612
 <br>
 <div>
 <!--   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" align="right" width="300">&nbsp; -->
-  <li>I'm 17 years old;</li>
   <li>Frontend developer from Russia;</li>
 </div>
 <br>
