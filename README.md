@@ -23,7 +23,6 @@ Hi, I'm Darya <img src="https://user-images.githubusercontent.com/74038190/22612
 <div align="left">
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dashatit&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
