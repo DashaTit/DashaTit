@@ -8,12 +8,6 @@
   <li>I’m currently learning WebDev.</li>
   <li>My portfolio: https://dashatit.github.io/portfolio/ </li>
 </div>
-<h3>
-  Languages and Tools
-</h3>
-<div>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-</div>
 <!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dashatit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400"/>
 </div> -->
