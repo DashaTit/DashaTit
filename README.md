@@ -1,4 +1,4 @@
-<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Hi, I'm Darya </h1>
+<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Hi, I'm Darya </h1>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width=40px> -->
 <br>
 <div>
@@ -8,13 +8,15 @@
   <li>I’m currently learning WebDev.</li>
   <li>My portfolio: https://dashatit.github.io/portfolio/ </li>
 </div>
-<br>
-
-<br>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dashatit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400"/>
+<h3>
+  Languages and Tools
+</h3>
+<div>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 </div>
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dashatit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400"/>
+</div> -->
 
 <!-- Markdown -->
 <br>
